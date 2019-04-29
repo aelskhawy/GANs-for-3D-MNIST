@@ -1,4 +1,4 @@
-# GANs for 3D MNIST
+# 3D GANs for 3D MNIST
 
 This codes generates 3D digits (16x16x16) using GANs trained on 3D MNIST data. 
 
@@ -16,3 +16,5 @@ The data that has been used is available in the code sub-directory. To learn mor
 
 ## Acknowledgment 
 This code is a clone of this [repo](https://github.com/rimchang/3DGAN-Pytorch) with some modifications. 
+
+#GANs #3D #MNIST #3D_MNIST 
